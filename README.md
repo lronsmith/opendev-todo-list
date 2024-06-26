@@ -8,7 +8,7 @@ To run any of the react frontends, from its folder run
 npm run dev
 ```
 
-and to run any of the expressjs servers, from its respecting /backend folder run 
+and to run any of the expressjs servers, from its respective /backend folder run 
 
 ```shell
 npm run dev
