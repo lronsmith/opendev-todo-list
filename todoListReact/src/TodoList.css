@@ -1,0 +1,9 @@
+.todoCard {
+    border: black 1px solid;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.todoCard > h2, .todoCard > p {
+    margin: 5px;
+}
