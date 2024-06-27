@@ -1,3 +1,5 @@
+import {React} from 'react';
+
 export default function TodoCard({todoEntry, onDone}) {
     return <div className="todoCard">
         <h2>{todoEntry.title}</h2>
